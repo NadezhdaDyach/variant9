@@ -1,0 +1,11 @@
+C:\Users\Nadya\Desktop\Variant9\Variant9\bin\Debug\Variant9.exe.config
+C:\Users\Nadya\Desktop\Variant9\Variant9\bin\Debug\Variant9.exe
+C:\Users\Nadya\Desktop\Variant9\Variant9\bin\Debug\Variant9.pdb
+C:\Users\Nadya\Desktop\Variant9\Variant9\obj\Debug\Variant9.csprojAssemblyReference.cache
+C:\Users\Nadya\Desktop\Variant9\Variant9\obj\Debug\Variant9.FormAgents.resources
+C:\Users\Nadya\Desktop\Variant9\Variant9\obj\Debug\Variant9.Properties.Resources.resources
+C:\Users\Nadya\Desktop\Variant9\Variant9\obj\Debug\Variant9.csproj.GenerateResource.cache
+C:\Users\Nadya\Desktop\Variant9\Variant9\obj\Debug\Variant9.csproj.CoreCompileInputs.cache
+C:\Users\Nadya\Desktop\Variant9\Variant9\obj\Debug\Variant9.exe
+C:\Users\Nadya\Desktop\Variant9\Variant9\obj\Debug\Variant9.pdb
+C:\Users\Nadya\Desktop\Variant9\Variant9\obj\Debug\Variant9.FormAddEditAgent.resources
